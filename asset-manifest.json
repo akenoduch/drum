@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drum/static/css/main.4a392193.css",
+    "main.js": "/drum/static/js/main.6894f716.js",
+    "index.html": "/drum/index.html",
+    "main.4a392193.css.map": "/drum/static/css/main.4a392193.css.map",
+    "main.6894f716.js.map": "/drum/static/js/main.6894f716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a392193.css",
+    "static/js/main.6894f716.js"
+  ]
+}
